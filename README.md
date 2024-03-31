@@ -26,6 +26,8 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
+To add your own favicon, download your favicon image in the 'public' folder of your current directory and rename the favicon by the name `favicon.ico`.
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
